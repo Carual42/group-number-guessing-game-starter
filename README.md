@@ -1,3 +1,14 @@
+[x] check server status
+[] html setup, input fields, submit buttons, guess history
+[] random number generator (server side)
+[] ready now function
+[] total guess made (client side)
+[] get request (history and guesses)
+[] post request (guesses too high/low/correct)
+[] winner alert with restart button
+
+
+
 # Team Random Number Guess
 
 In this challenge, you will be creating a number guessing game! You'll have plenty of time to work on this as a group. Start by spending 5 minutes reading through the requirements individually. After reading through the requirements, come together as a group and talk about what you would like to get out of the project.
