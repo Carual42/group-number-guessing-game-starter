@@ -1,6 +1,6 @@
 [x] check server status
-[] html setup, input fields, submit buttons, guess history
-[] random number generator (server side)
+[x] html setup, input fields, submit buttons, guess history
+[x] random number generator (server side)
 [] ready now function
 [] total guess made (client side)
 [] get request (history and guesses)
